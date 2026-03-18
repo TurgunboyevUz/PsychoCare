@@ -15,7 +15,7 @@ class TeleUserSeeder extends Seeder
     {
         $users = [
             [
-                'user_id' => '100000001',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Azizbek',
                 'last_name' => 'Karimov',
                 'username' => 'azizbek_01',
@@ -24,7 +24,7 @@ class TeleUserSeeder extends Seeder
                 'is_admin' => false,
             ],
             [
-                'user_id' => '100000002',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Dilnoza',
                 'last_name' => 'Rahimova',
                 'username' => 'dilnoza_psy',
@@ -33,7 +33,7 @@ class TeleUserSeeder extends Seeder
                 'is_admin' => false,
             ],
             [
-                'user_id' => '100000003',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Sardor',
                 'last_name' => 'Yusupov',
                 'username' => 'sardor_dev',
@@ -42,7 +42,7 @@ class TeleUserSeeder extends Seeder
                 'is_admin' => false,
             ],
             [
-                'user_id' => '100000004',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Mohira',
                 'last_name' => 'Tursunova',
                 'username' => 'mohira_uz',
@@ -51,7 +51,7 @@ class TeleUserSeeder extends Seeder
                 'is_admin' => false,
             ],
             [
-                'user_id' => '100000005',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Jasur',
                 'last_name' => 'Nazarov',
                 'username' => 'jasur_n',
@@ -60,7 +60,7 @@ class TeleUserSeeder extends Seeder
                 'is_admin' => false,
             ],
             [
-                'user_id' => '100000006',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Madina',
                 'last_name' => 'Sodiqova',
                 'username' => 'madina_live',
@@ -69,7 +69,7 @@ class TeleUserSeeder extends Seeder
                 'is_admin' => false,
             ],
             [
-                'user_id' => '100000007',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Otabek',
                 'last_name' => 'Qodirov',
                 'username' => 'otabek_q',
@@ -78,7 +78,7 @@ class TeleUserSeeder extends Seeder
                 'is_admin' => false,
             ],
             [
-                'user_id' => '100000008',
+                'user_id' => $this->user_id(),
                 'first_name' => 'Shahnoza',
                 'last_name' => 'Rustamova',
                 'username' => 'shahnoza_r',
@@ -89,5 +89,10 @@ class TeleUserSeeder extends Seeder
         ];
 
         TeleUser::insert($users);
+    }
+
+    public function user_id()
+    {
+        return rand(100,999) . rand(100, 999) . rand(10, 99) . rand(10, 99);
     }
 }
