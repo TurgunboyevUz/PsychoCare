@@ -21,9 +21,11 @@ class DatabaseSeeder extends Seeder
         ]);
 
         $this->call([
+            TeleUserSeeder::class,
             MoodSeeder::class,
             DrugSeeder::class,
             QuestionnaireSeeder::class,
+            UserMoodSeeder::class
         ]);
     }
 }
