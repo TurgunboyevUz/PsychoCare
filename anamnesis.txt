@@ -1,0 +1,36 @@
+Barcha foydalanuvchilardan ushbu ma'lumotlar so'ralishi kerak:
+telegram_id - telegram login widgetdan olinadi
+nickname - telegram akkaunt nickname (telegram login widgetdan olinadi)
+username - telegram username (telegram login widgetdan olinadi)
+login
+password
+first_name
+second_name
+third_name
+birth_date
+gender - male, female
+email
+phone_number
+region
+city
+street_address
+locale - uz/ru/en
+is_active
+last_active_at
+registration_status - pending, complete
+* soft deletes1
+
+Shuningdek bemorlar ro'yxatdan o'tib bo'lgach ularga agar registration status pending holatda bo'lsa quyidagi formani (boshlang'ich anamnez formasi) to'ldirishi kerakligi notification holida ko'rsatiladi (complete bo'lmaguncha):
+1) Biografiya - o'zi haqida qisqacha 1000 ta belgi
+2) Oilaviy holati - bo'ydoq/uylangan/ajrashgan
+3) Naslida ruhiy kasallar bor yoki yo'qligi - boolean
+4) Bolalikdan ruhiy travmalar bor yoki yo'qligi - boolean
+5) Og'ir somatik kasalliklar bilan og'rigan yo yo'q - boolean (agar bo'lsa unda qandayligi - alohida columnga)
+6) Nasli, oilasi, o'zi - kimdir suidsid qilishga uringanmi (yoki suidsiddan o'lganmi) - boolean (agar bo'lsa kimligi)
+7) Xulq-atvor va mayl buzilishlari bo'lganmi - boolean?
+8) Quyidagi psixik travmalardan birini o'tkazganmi: bolalar uyi, qamoq, zo'rlanish.
+9) Giyohvand moddalar iste'mol qilganmi?
+10) O'yinlarda azartga berilish holatlari bo'lganmi (mobil/pc/qimor va h.k)
+11) O'zida qaramlik his qiladimi (o'yin, porno va h.k)
+12) Psixosomatik buzilishlarni boshidan kechirganmi?
+13) Bugunga qadar psixologik davolanish kursini o'taganmi - boolean (agar bo'lsa unda qandayligi so'raladi).

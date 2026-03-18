@@ -1,0 +1,8 @@
+{
+    "dejavu sans": {
+        "bold": "\/home\/codearch\/Projects\/PsychoOnlineBot\/vendor\/dompdf\/dompdf\/lib\/fonts\/DejaVuSans-Bold",
+        "bold_italic": "\/home\/codearch\/Projects\/PsychoOnlineBot\/vendor\/dompdf\/dompdf\/lib\/fonts\/DejaVuSans-BoldOblique",
+        "italic": "\/home\/codearch\/Projects\/PsychoOnlineBot\/vendor\/dompdf\/dompdf\/lib\/fonts\/DejaVuSans-Oblique",
+        "normal": "dejavu_sans_normal_63497373c7d9e2a46a45210ba16b5b0c"
+    }
+}

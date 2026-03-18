@@ -1,0 +1,230 @@
+[
+    {
+        "primary_name": "karbamazepin",
+        "alias_name": [
+            "finlepsin",
+            "tegretol",
+            "zeptol",
+            "karbalepsin"
+        ],
+        "description": "Samaradorligi isbotlangan preparat.\n\nNevrologiyada epilepsiya va og'riq sindromlarini davolashda, psixiatriyada esa bipolyar affektiv buzilishlarda qo'llaniladi.\n\nKo'pincha xavotir, depressiv buzilishlar va obsesiv-kompulsiv spektr buzilishlarida kuniga 100-300 mg dozada tayinlanishini ko'rish mumkin.\n\nUshbu holatlarda 400 mg dan kam dozada preparat samarasiz hisoblanadi.\n\nKo'pgina dori vositalari karbamazepin darajasini pasaytirishi mumkin, shuningdek, karbamazepinning o'zi ham qon plazmasidagi boshqa dorilar darajasini o'zgartirishi mumkin, bu esa uni nisbatan xavfli preparatga aylantiradi.\n\nPsixiatriya amaliyotida birinchi tanlov preparati (birinchi liniya) sifatida tayinlanmasligi kerak."
+    },
+    {
+        "primary_name": "xlorpromazin",
+        "alias_name": [
+            "aminazin"
+        ],
+        "description": "Birinchi antipsixotik preparat. O'tgan asrning o'rtalarida sintez qilingan. Alahsirash, gallyutsinatsiyalar va psixomotor qo'zg'alishlarga qarshi samarali.\n\nZamonaviy antipsixotiklarga qaraganda yomonroq qabul qilinadi va samaradorligi pastroq.\n\nKuchli depressogen ta'sirga ega. Xolestaz, dori vositasidan kelib chiqqan gepatit va agranulotsitozni keltirib chiqarishi mumkin.\n\nYagona afzalligi — arzonligi."
+    },
+    {
+        "primary_name": "gopanten kislotasi",
+        "alias_name": [
+            "pantogam",
+            "pantokaltsin"
+        ],
+        "description": "Nootrop vositalar sirasiga kiradi. Ko'rsatmalarda: «Bosh miyaning organik shikastlanishlaridagi kognitiv buzilishlar, neyroinfektsiya va bosh miya jarohatlari asoratlari, nevrotik buzilishlar» ko'rsatilgan. Samaradorligi isbotlanmagan, shu bilan birga xavfsiz ham emas, shu sababli ba'zi mamlakatlarda taqiqlangan: gopanten kislotasini qo'llash fonida o'tkir ensefalopatiya rivojlanish holatlari qayd etilgan."
+    },
+    {
+        "primary_name": "korteksin",
+        "alias_name": [],
+        "description": "Xalqaro patentlanmagan nomi grafasida — «qoramol bosh miya qobig'i polipeptidlari» deb ko'rsatilgan. Nootroplar guruhiga kiritiladi, insult, jarohatlar, epilepsiya va bolalardagi rivojlanishdan ortda qolish holatlarida tayinlanadi. Rossiyada ishlab chiqilgan, Yevropa va AQSHda tadqiqotlar hamda sistematik sharhlar mavjud emas. Samaradorligi va xavfsizligi haqida biror narsa deyish imkonsiz. Tarkibi o'rganilgan tserebrolozinga o'xshashligini hisobga olsa, samarasi plasebodan yuqori emas deb taxmin qilish mumkin."
+    },
+    {
+        "primary_name": "xolin alfostserat",
+        "alias_name": [
+            "gliatilin",
+            "tserepro",
+            "tsereton",
+            "gleatser",
+            "xolitilin",
+            "nooprin",
+            "nooxolin",
+            "logatser",
+            "xoli-alfa"
+        ],
+        "description": "Nootrop vosita. Insult, dementsiya va Alsgeymer kasalligida tayinlanadi.\n\nTa'sir mexanizmiga ko'ra — markaziy ta'sirga ega xolinomimetik. AQSHda dori vositasi emas, balki BFQ (biologik faol qo'shimcha) hisoblanadi.\n\nHozirgi vaqtda preparatning samaradorligi haqidagi ma'lumotlar juda kam."
+    },
+    {
+        "primary_name": "peritsiazin",
+        "alias_name": [
+            "neuleptil"
+        ],
+        "description": "Birinchi avlod antipsixotigi.\n\nKo'pincha «xulq-atvor korrektori» deb ataladi va bolalarga tayinlanadi.\n\nShizofreniya spektri buzilishlarida samaradorligi shubhali: Kokreyn (Cochrane) shafeligida o'tkazilgan yagona sistematik sharh xavfsizlik va samaradorlik haqida xulosa qilish uchun keng ko'lamli tadqiqotlar o'tkazishni tavsiya qilgan.\n\nDofamin retseptorlariga ta'siri tufayli ekstrapiramidal simptomlar (tremor, qotib qolish va boshqalar) rivojlanish xavfi yuqori.\n\nOg'iz qurishi, qabziyat, uyquchanlik kabi nojo'ya ta'sirlari bor. Xulq-atvorni tuzatish uchun psixoterapiya usullarini qo'llash va asosiy kasallikni davolash lozim."
+    },
+    {
+        "primary_name": "tserebrolozin",
+        "alias_name": [],
+        "description": "Nootrop preparat.\n\nCho'chqa bosh miyasidan olingan peptidlar kompleksi. Rossiya va Xitoyda insult hamda dementsiyada keng qo'llaniladi.\n\nBir nechta sistematik sharhlar mavjud, biroq ularning birortasida preparatning samaradorligi plaseboga nisbatan tasdiqlanmagan.\n\n2021-yildagi xavfsizlik bo'yicha tadqiqotlar shuni ko'rsatdiki, juda yuqori dozalar (50 ml) xavfli bo'lishi mumkin."
+    },
+    {
+        "primary_name": "5-HTP",
+        "alias_name": [
+            "5HTP",
+            "5-gidroksitriptofan",
+            "gidroksitriptofan"
+        ],
+        "description": "Serotonin sintezlanadigan modda. BFQ tarkibida sotiladi. BFQlar dori vositasi hisoblanmaydi! Depressiyani davolashda birinchi yoki ikkinchi darajali vosita emas, lekin dorilarga chidamlilik holatlarida antidepressantlar bilan birga qo'llanilishi mumkin."
+    },
+    {
+        "primary_name": "tetrametiltetraazabitsiklooktandion",
+        "alias_name": [
+            "adaptol",
+            "mebikar",
+            "mebiks"
+        ],
+        "description": "Anksiolitiklar (trankvilizatorlar) sirasiga kiradi. Rossiya-Latviya ishlanmasi. Nevrozlar, neyroleptiklarni yaxshiroq o'zlashtirish va nikotinli abstinentsiya holatlarida tayinlanadi. Yo'riqnomasida barcha asosiy neyromediator tizimlariga ta'sir qilishi aytilgan, biroq qanday ta'sir qilishi tushunarsiz. Sobiq Ittifoq davlatlaridan tashqarida tadqiqotlar mavjud emas. Qo'llash tavsiya etilmaydi."
+    },
+    {
+        "primary_name": "afobazol",
+        "alias_name": [
+            "fabomotizol"
+        ],
+        "description": "Anksiolitik vosita (trankvilizator) sifatida taqdim etilgan. Xalqaro tadqiqotlar deyarli yo'q, mahalliy ko'rsatmalardan tashqari hech qanday yirik klinik tavsiyalarga kiritilmagan. Bunday preparatni qo'llash shubhali ko'rinadi."
+    },
+    {
+        "primary_name": "valemidin",
+        "alias_name": [],
+        "description": "Bir qator o'tlar (do'lana, arslonquyruq, valeriana, yalpiz) va dimedrolni o'z ichiga olgan kombinatsiyalangan preparat. Ruhiy buzilishlarni davolashda isbotlangan samaradorlikka ega emas. Sifatli tadqiqotlar mavjud emas."
+    },
+    {
+        "primary_name": "azafen",
+        "alias_name": [
+            "pipofezin"
+        ],
+        "description": "Sovet davridagi tritsiklik antidepressant (TSA). Isbotlovchi bazasi juda zaif. Sifatli tadqiqotlar yo'q. Selektiv antidepressantlar (SIOZS) azafenga qaraganda xavfsizroq va samaraliroq hisoblanadi."
+    },
+    {
+        "primary_name": "do'lana",
+        "alias_name": [
+            "boyarishnik"
+        ],
+        "description": "BFQ, tabletka va damlamalar tarkibiga kiradi. Ta'siri kam o'rganilgan, sifatli tadqiqotlar deyarli yo'q. Qo'llash tavsiya etilmaydi."
+    },
+    {
+        "primary_name": "arslonquyruq",
+        "alias_name": [
+            "pustirnik"
+        ],
+        "description": "Asab qo'zg'aluvchanligi, uyqu buzilishi va vegetativ-tomir distoniyasida tavsiya etiladi. Isbotlangan samaradorligi mavjud emas."
+    },
+    {
+        "primary_name": "valeryanka",
+        "alias_name": [
+            "valeriana"
+        ],
+        "description": "Tinchlantiruvchi vosita sifatida ishlatiladi. Yirik sistematik sharhlar va meta-tahlillar uyqu buzilishlarini davolashda sezilarli samaradorlikni ko'rsatmagan. Uni har qanday formatda qo'llash shubhali hisoblanadi."
+    },
+    {
+        "primary_name": "normotim",
+        "alias_name": [],
+        "description": "Biologik faol qo'shimcha (BFQ), tarkibida B va C vitaminlari hamda mikro dozada litiy askorbati bor. Litiyning terapevtik dozalari ushbu qo'shimchadagidan 100-200 baravar yuqori. Terapevtik samaradorligini tasdiqlovchi xalqaro tadqiqotlar yo'q."
+    },
+    {
+        "primary_name": "meksidol",
+        "alias_name": [
+            "etilmetilgidroksipiridina suktsinat",
+            "astroks",
+            "meksiprim",
+            "neyroks",
+            "meksikor"
+        ],
+        "description": "Yo'riqnomada antioksidant, nootrop va xavotirga qarshi ta'sirga egaligi aytilgan. Biroq ta'sir mexanizmi shubha uyg'otadi, xorijiy tadqiqotlar va sistematik sharhlar deyarli yo'q. Qo'llash tavsiya etilmaydi."
+    },
+    {
+        "primary_name": "fonturatsetam",
+        "alias_name": [
+            "fenotropil",
+            "nanotropil"
+        ],
+        "description": "Rivojlantiruvchi (stimullovchi) ta'sirga ega nootrop vosita deb ataladi. Xalqaro antidoping assotsiatsiyasi tomonidan taqiqlangan, lekin bu uning samaradorligini tasdiqlamaydi. Samaradorlikni tasdiqlovchi sifatli xalqaro klinik tadqiqotlar mavjud emas."
+    },
+    {
+        "primary_name": "selank",
+        "alias_name": [],
+        "description": "Aminokislotalar kombinatsiyasi, xavotirga qarshi preparat sifatida taqdim etiladi. Ta'sir mexanizmi aniq emas va yaxshi o'rganilmagan."
+    },
+    {
+        "primary_name": "persen",
+        "alias_name": [
+            "novopassit",
+            "novo-passit"
+        ],
+        "description": "Ruhiy buzilishlarni davolashda isbotlangan samaradorlikka ega bo'lmagan o'simlik xomashyosiga asoslangan preparatlar."
+    },
+    {
+        "primary_name": "korvalol",
+        "alias_name": [
+            "korvaldin",
+            "valokordin",
+            "valoserdin"
+        ],
+        "description": "Kombinatsiyalangan preparat, tarkibida fenobarbital mavjud. Fenobarbital Yevropa va AQSHda qo'llanilishi taqiqlangan yoki qat'iy cheklangan modda hisoblanadi. O'rganib qolish (qaramlik) xavfi juda yuqori va kognitiv buzilishlarga olib kelishi mumkin. Qo'llash tavsiya etilmaydi."
+    },
+    {
+        "primary_name": "tioridazin",
+        "alias_name": [
+            "sonapaks",
+            "tioril"
+        ],
+        "description": "Tipik antipsixotik (neyroleptik). Kardiotoksik (yurakka zararli). Ko'rlikka olib kelishi mumkin. Boshqa zamonaviy antipsixotiklardan hech qanday afzalligi yo'q."
+    },
+    {
+        "primary_name": "teralidjen",
+        "alias_name": [
+            "alimemazin"
+        ],
+        "description": "Aslida antigistamin preparat. AQSHda veterinariya amaliyotida qichishishni davolash uchun tasdiqlangan. Psixiatriya tavsiyalariga kiritilmagan, lekin ko'p holatlarda «qo'shimcha terapiya» sifatida tayinlanadi."
+    },
+    {
+        "primary_name": "tenoten",
+        "alias_name": [
+            "proproten"
+        ],
+        "description": "Tritsiklik antidepressantlarning birinchi liniya sifatida tayinlanishi yomon o'zlashtirilishi va kardiotoksikligi sababli noto'g'ri deb hisoblanadi."
+    },
+    {
+        "primary_name": "fenibut",
+        "alias_name": [
+            "aminofenilmaslyanaya kislota",
+            "anvifen",
+            "noofen"
+        ],
+        "description": "Nootrop vosita. Hech qanday Amerika, Yevropa yoki Rossiya psixiatrlar assotsiatsiyasi tavsiyalariga kiritilmagan. Xavfsizligi va samaradorligi bo'yicha ishonchli dalillar yo'q."
+    },
+    {
+        "primary_name": "xlorprotiksen",
+        "alias_name": [
+            "truksal"
+        ],
+        "description": "Birinchi avlod antipsixotigi. Ko'plab nojo'ya ta'sirlari bor: uyquchanlik, og'iz qurishi, bosimning keskin tushib ketishi, vazn ortishi. Hozirgi kunda kamroq nojo'ya ta'sirga ega zamonaviy dorilar mavjud."
+    },
+    {
+        "primary_name": "pirlindol",
+        "alias_name": [
+            "pirazidol"
+        ],
+        "description": "MAO-A turidagi antidepressant. Faqat boshqa guruh antidepressantlari samara bermaganda qo'llanilishi mumkin. Sifatli xalqaro tadqiqotlar va sistematik sharhlar mavjud emas."
+    },
+    {
+        "primary_name": "ginkgo biloba",
+        "alias_name": [
+            "tanakan"
+        ],
+        "description": "O'simlik asosidagi BFQ. Alsgeymer kasalligi va kognitiv buzilishlarda samaradorligi bir nechta yirik sistematik sharhlarda rad etilgan."
+    },
+    {
+        "primary_name": "vinpotsetin",
+        "alias_name": [
+            "kavinton"
+        ],
+        "description": "Miya qon aylanishini yaxshilovchi vosita sifatida ko'rsatiladi. AQSHda dori emas, balki parhez qo'shimchasi sifatida ro'yxatga olingan. Dementsiya va insultda samarasiz ekanligi haqida ma'lumotlar bor."
+    },
+    {
+        "primary_name": "magne B6",
+        "alias_name": [
+            "magniy V6",
+            "magnelis V6"
+        ],
+        "description": "Tarkibida magniy va B6 vitamini mavjud. Tadqiqotlarning aksariyati Rossiyada o'tkazilgan, xalqaro sistematik sharhlar yo'q. Samaradorligi shubhali."
+    }
+]
